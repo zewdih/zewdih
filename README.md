@@ -9,7 +9,6 @@ builder of ml models, web apps & ethical ai tools | iOS dev in progress 🍎
 - Building NLP + ML systems for real-world impact
 - Designing explainable + ethical AI products
 - Teaching tech through clear communication
-- Bridging product, model dev, and UX
 
 ---
 
