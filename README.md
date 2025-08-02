@@ -49,4 +49,4 @@ Here’s what I’m most passionate about:
 
 ### Github Stats
 
-![Zewdi Herring's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zewdi-herring&show_icons=true&theme=tokyonight&hide=contribs&custom_title=Zewdi%20Herring%27s%20GitHub%20Stats)
+Currently building!
