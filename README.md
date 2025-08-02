@@ -1,6 +1,6 @@
 # 👋🏽 Welcome! Im Zewdi 
 
-Data Scientist | ML Engineer | Software Engineer passionate about real-world AI & systems
+Data Scientist | ML + Software Engineer passionate about real-world AI & systems
 
 🧩🧠 I think like a product manager, build like an engineer, and model like a data scientist. 🧩🧠
 
