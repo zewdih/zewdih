@@ -19,6 +19,9 @@ Here’s what I’m most passionate about:
 ---
 
 ### 🔬 Featured Projects
+📌 🍕 [**Bite by Byte: Modeling Nutritional Value in Fast Food**](https://colab.research.google.com/drive/1qnMPtRRKZ6BdIJk8u_-_9RT7YT_7Z9Gk?usp=sharing)
+
+This project uses machine learning to predict the healthiness of fast food items from publicly available nutrition data. I built models including Random Forest, XGBoost, and a Voting Ensemble, and contributed to the final analysis and report. The workflow covers data preprocessing, feature engineering, model training, and evaluation—offering a clear reference for applying ML to real-world tabular data.
 
 📌 🦑 [**Squid Game Neural Net**](https://deepnote.com/app/zewdis-first-project/Squid-Game-Model-7ef8e996-cf1b-4c33-b841-018900a3e6d2?)
 
@@ -26,7 +29,7 @@ Click above to explore a multi-output neural network that predicts Squid Game co
 
 📌 🧠 [**Rhetoric Intensity Classifier**](https://github.com/zewdih/rhetoric-intensity-classifier)
 
-Click above to explore a multi-class NLP classifier that predicts the intensity of political rhetoric. The project walks through text preprocessing, TF-IDF feature engineering, model training, and evaluation—providing a useful guide for those interested in using NLP to analyze political language.
+A multi-class NLP classifier that predicts the intensity of political rhetoric using TF-IDF features and supervised learning. The project walks through text preprocessing, feature engineering, model training, and evaluation—providing a useful guide for applying NLP to political language analysis.
 
 ---
 
