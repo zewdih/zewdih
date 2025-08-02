@@ -46,3 +46,7 @@ Here’s what I’m most passionate about:
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=sklearn&logoColor=white)](https://scikit-learn.org/) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-00758f?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/) [![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
 ---
+
+### Github Stats
+
+![Zewdi Herring's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zewdi-herring&show_icons=true&theme=tokyonight&hide=contribs&custom_title=Zewdi%20Herring%27s%20GitHub%20Stats)
