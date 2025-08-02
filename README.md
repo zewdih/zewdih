@@ -1,16 +1,21 @@
 # 👋🏽 Welcome! Im Zewdi 
 
-Data Scientist, Software Engineer & ML Engineer passionate about building real-world AI systems.
+Data Scientist | ML Engineer | Software Engineer passionate about real-world AI & systems
 
-🍎 Currently teaching myself iOS Development
-⚡ I’m driven by a mission to make machine learning more explainable, accessible, and impactful across communities.
+🧩🧠 I think like a product manager, build like an engineer, and model like a data scientist. 🧩🧠
 
 ---
+## About Me
 
-⚡ I'm passionate about:
-- Building NLP + ML systems for real-world impact
-- Designing explainable + ethical AI products
-- Teaching tech through clear communication
+👩🏽‍💻 **Data Scientist, ML Engineer, and Software Engineer** with a product mindset and a passion for building AI tools that work in the real world. I'm a UC Berkeley grad (Data Science) who loves bringing technical depth and creative intuition together to solve meaningful problems.  
+
+Here’s what I’m most passionate about:
+
+- 🐾 **Applied ML + Computer Vision** – From classifying political rhetoric to building Mood Paw AI, I love making ML models that explain, interpret, and interact with the world.
+- 🧠 **End-to-End Model Development** – I build from scratch: modeling logic, data wrangling, training, evaluation, and tuning with clear metrics (R², OSR², F1).
+- 🛠️ **Developer Tools + UX** – Whether it's web apps, educational tools, or internal dashboards, I aim to build intuitive interfaces on top of powerful systems.
+- 📱 **iOS + CoreML in Progress** – I’m actively exploring Swift and CoreML to bring ML to mobile and build apps with real-world value.
+- 🎓 **Teaching + Technical Communication** – As a tech instructor and writing tutor, I know how to explain complex systems to diverse learners and stakeholders.
 
 ---
 
