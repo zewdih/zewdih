@@ -1,7 +1,9 @@
-# 👋🏽 Welcome!
+# 👋🏽 Welcome! Im Zewdi 
 
-**data scientist | swe | ml engineer | uc berkeley grad (data science)**  
-builder of ml models, web apps & ethical ai tools | iOS dev in progress 🍎
+Data Scientist, Software Engineer & ML Engineer passionate about building real-world AI systems.
+
+🍎 Currently teaching myself iOS Development
+⚡ I’m driven by a mission to make machine learning more explainable, accessible, and impactful across communities.
 
 ---
 
