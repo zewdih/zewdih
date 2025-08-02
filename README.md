@@ -20,8 +20,8 @@ Here’s what I’m most passionate about:
 
 ### 🔬 Featured Projects
 
-- 🦑 **Squid Game Neural Net** – Multi-output NN for predicting survival, risk-taking, and alliances  
-- 🧠 **Rhetoric Intensity Classifier** – TF-IDF + logistic regression for political speech tone  
+📌 🦑 **Squid Game Neural Net** – Multi-output NN for predicting survival, risk-taking, and alliances  
+📌 🧠 **Rhetoric Intensity Classifier** – TF-IDF + logistic regression for political speech tone  
 
 ---
 
