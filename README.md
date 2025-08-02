@@ -21,9 +21,11 @@ Here’s what I’m most passionate about:
 ### 🔬 Featured Projects
 
 📌 🦑 [**Squid Game Neural Net**](https://deepnote.com/app/zewdis-first-project/Squid-Game-Model-7ef8e996-cf1b-4c33-b841-018900a3e6d2?)
+
 Click above to explore a multi-output neural network that predicts Squid Game contestants' survival, risk-taking, and alliances based on features like age and debt. The project walks through data preprocessing, feature selection, model training, and evaluation—offering a clear path for anyone interested in building interpretable ML pipelines with real-world-inspired data.
 
 📌 🧠 [**Rhetoric Intensity Classifier**](https://github.com/zewdih/rhetoric-intensity-classifier)
+
 Click above to explore a multi-class NLP classifier that predicts the intensity of political rhetoric. The project walks through text preprocessing, TF-IDF feature engineering, model training, and evaluation—providing a useful guide for those interested in using NLP to analyze political language.
 
 ---
