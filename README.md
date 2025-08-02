@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋🏽 Welcome!
 
-<!--
-**zewdih/zewdih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**data scientist | swe | ml engineer | uc berkeley grad (data science)**  
+builder of ml models, web apps & ethical ai tools | iOS dev in progress 🍎
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ I'm passionate about:
+- Building NLP + ML systems for real-world impact
+- Designing explainable + ethical AI products
+- Teaching tech through clear communication
+- Bridging product, model dev, and UX
+
+---
+
+### 🔬 Featured Projects
+
+- 🦑 **Squid Game Neural Net** – Multi-output NN for predicting survival, risk-taking, and alliances  
+- 🧠 **Rhetoric Intensity Classifier** – TF-IDF + logistic regression for political speech tone  
+
+---
+
+### 🌱 Currently Exploring
+
+- Core ML & Swift for iOS  
+- Music + NLP integrations  
+- ML model ops & infrastructure
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/zewdi-herring)  
+[Portfolio](https://zewdiherring.github.io) | zewditu.herring@berkeley.edu
