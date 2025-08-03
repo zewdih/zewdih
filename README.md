@@ -1,4 +1,4 @@
-# 👋🏽 Welcome! Im Zewdi 
+# 👋🏽 Hey, Im Zewdi :)
 
 Data Scientist | ML + Software Engineer passionate about real-world AI & systems
 
