@@ -18,7 +18,7 @@ Here’s what I’m most passionate about:
 
 ---
 
-### 🔬 Featured Projects
+## 🔬 Featured Projects
 📌 🍕 [**Bite by Byte: Modeling Nutritional Value in Fast Food**](https://colab.research.google.com/drive/1qnMPtRRKZ6BdIJk8u_-_9RT7YT_7Z9Gk?usp=sharing)
 
 This project uses machine learning to predict the healthiness of fast food items from publicly available nutrition data. I built models including Random Forest, XGBoost, and a Voting Ensemble, and contributed to the final analysis and report. The workflow covers data preprocessing, feature engineering, model training, and evaluation—offering a clear reference for applying ML to real-world tabular data.
@@ -33,13 +33,13 @@ A multi-class NLP classifier that predicts the intensity of political rhetoric u
 
 ---
 
-### Portfolio
+## Portfolio
 
 👉🏽 Check out my personal portfolio website:  [Zewdi Herring's Portfolio](https://zewdiherring.carrd.co)
 
 ---
 
-### 🫱🏽‍🫲🏼 Connect With Me
+## 🫱🏽‍🫲🏼 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/zewdi-herring)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/thisiszewdi) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/zewdiherring)
 
@@ -47,7 +47,7 @@ A multi-class NLP classifier that predicts the intensity of political rhetoric u
 
 ---
 
-### Skills
+## Skills
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -55,7 +55,7 @@ A multi-class NLP classifier that predicts the intensity of political rhetoric u
 
 ---
 
-### Github Stats
+## Github Stats
 
 http://github-profile-summary-cards.vercel.app/api/cards/stats?username={zewdih}&theme={zenburn}
 
