@@ -61,3 +61,6 @@ A multi-class NLP classifier that predicts the intensity of political rhetoric u
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zewdih&theme=moltack)
 
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zewdih&theme=moltack)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zewdih&theme=moltack)
+
