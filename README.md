@@ -41,7 +41,8 @@ A multi-class NLP classifier that predicts the intensity of political rhetoric u
 
 ## 🫱🏽‍🫲🏼 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/zewdi-herring)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/thisiszewdi) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/zewdiherring)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zewdi-herring) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/thisiszewdi) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/zewdiherring)
+
 
 📫 You can also contact me at zewditu.herring@berkeley.edu
 
@@ -56,7 +57,5 @@ A multi-class NLP classifier that predicts the intensity of political rhetoric u
 ---
 
 ## Github Stats
-
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username={zewdih}&theme={zenburn}
 
 Currently building!
