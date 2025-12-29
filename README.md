@@ -19,17 +19,21 @@ Here’s what I’m most passionate about:
 ---
 
 ## 🔬 Featured Projects
-📌 🍕 [**Bite by Byte: Modeling Nutritional Value in Fast Food**](https://colab.research.google.com/drive/1qnMPtRRKZ6BdIJk8u_-_9RT7YT_7Z9Gk?usp=sharing)
 
-This project uses machine learning to predict the healthiness of fast food items from publicly available nutrition data. I built models including Random Forest, XGBoost, and a Voting Ensemble, and contributed to the final analysis and report. The workflow covers data preprocessing, feature engineering, model training, and evaluation—offering a clear reference for applying ML to real-world tabular data.
+📌 🤖 **[FortuneAI – League of Legends Agentic AI Coach](https://github.com/zewdih/rift-rewind-mf-coach)**  
+Built an agentic AI system that analyzes League of Legends match data to deliver personalized coaching, key performance metrics, and training drills. Developed using the Riot API, FastAPI, and AWS Bedrock, the system transforms raw gameplay data into actionable feedback through structured reasoning and controlled inference. Designed with real-world constraints in mind, including latency, cost, and scalability.
 
-📌 🦑 [**Squid Game Neural Net**](https://deepnote.com/app/zewdis-first-project/Squid-Game-Model-7ef8e996-cf1b-4c33-b841-018900a3e6d2?)
+📌 🛡 **[MalorNot – MCP AI Security Agent (Hackathon Project)](https://devpost.com/software/malornot)**  
+Spearheaded the development of an AI security agent that intercepts user queries and dynamically routes them through protection tools—malicious input detection, PII scrubbing, and anomaly detection—before reaching an LLM. Designed the agent flow, contributed to orchestration using Dify, and led collaboration to deliver a functional end-to-end demo within 6 hours.
 
-Click above to explore a multi-output neural network that predicts Squid Game contestants' survival, risk-taking, and alliances based on features like age and debt. The project walks through data preprocessing, feature selection, model training, and evaluation—offering a clear path for anyone interested in building interpretable ML pipelines with real-world-inspired data.
+📌 ⚪🔴 **[PokeInsight – End-to-End ETL & Analytics Pipeline](https://deepnote.com/app/zewdis-first-project/DataMon-The-Original-151-677c8c42-6fcb-4f74-99b6-8dfeb5515461)**  
+Developed an end-to-end ETL pipeline using Pokémon API data, covering extraction, cleaning, validation, and SQL-based transformation with DuckDB. Applied statistical analysis to identify strengths and weaknesses across Pokémon types, gaining hands-on experience with reproducible data workflows and structured analytics pipelines.
 
-📌 🧠 [**Rhetoric Intensity Classifier**](https://github.com/zewdih/rhetoric-intensity-classifier)
+📌 🍔 **[Bite by Byte: Modeling Nutritional Value in Fast Food](https://colab.research.google.com/drive/1qnMPtRRKZ6BdIJk8u_-_9RT7YT_7Z9Gk?usp=sharing)**  
+Built and evaluated multiple machine learning models (Random Forest, XGBoost, Voting Ensemble) to predict the healthiness of fast food items using publicly available nutrition data. The workflow includes data preprocessing, feature engineering, model training, and evaluation, serving as a clear reference for applying ML to real-world tabular data.
 
-A multi-class NLP classifier that predicts the intensity of political rhetoric using TF-IDF features and supervised learning. The project walks through text preprocessing, feature engineering, model training, and evaluation—providing a useful guide for applying NLP to political language analysis.
+📌 🧠 **[Rhetoric Intensity Classifier](https://github.com/zewdih/rhetoric-intensity-classifier)**  
+Created a multi-class NLP classifier that predicts the intensity of political rhetoric using TF-IDF features and supervised learning. Focused on annotation quality, feature engineering, and evaluation to ensure interpretability and robustness when modeling nuanced language patterns.
 
 ---
 
