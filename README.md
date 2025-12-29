@@ -12,8 +12,11 @@
 Here’s what I’m most passionate about:
 
 - 🤖 **End-to-End Model & Agent Development** – I build from scratch: data wrangling, modeling logic, training, evaluation, tuning, and orchestration, using clear metrics (R², OSR², F1) while accounting for real-world constraints like cost, latency, and reliability.
+  
 - 📱 **iOS + CoreML (In Progress)** – I’m actively exploring Swift and CoreML to bring ML and intelligent agents to mobile, focusing on practical applications with real user value.
+  
 - 🎓 **Teaching + Technical Communication** – As a technical instructor and writing tutor, I translate complex ML and system concepts into clear, approachable explanations for diverse learners and stakeholders.
+  
 - 📚 **ML/DL & Agentic AI Research Enthusiast** – I regularly read and synthesize machine learning, deep learning, and agent-based AI research, with an emphasis on applying ideas pragmatically rather than theoretically.
 
 ---
@@ -21,18 +24,23 @@ Here’s what I’m most passionate about:
 ## 🔬 Featured Projects
 
 📌 🤖 **[FortuneAI – League of Legends Agentic AI Coach](https://github.com/zewdih/rift-rewind-mf-coach)**  
+
 Built an agentic AI system that analyzes League of Legends match data to deliver personalized coaching, key performance metrics, and training drills. Developed using the Riot API, FastAPI, and AWS Bedrock, the system transforms raw gameplay data into actionable feedback through structured reasoning and controlled inference. Designed with real-world constraints in mind, including latency, cost, and scalability.
 
 📌 🛡 **[MalorNot – MCP AI Security Agent (Hackathon Project)](https://devpost.com/software/malornot)**  
+
 Spearheaded the development of an AI security agent that intercepts user queries and dynamically routes them through protection tools—malicious input detection, PII scrubbing, and anomaly detection—before reaching an LLM. Designed the agent flow, contributed to orchestration using Dify, and led collaboration to deliver a functional end-to-end demo within 6 hours.
 
 📌 ⚪🔴 **[PokeInsight – End-to-End ETL & Analytics Pipeline](https://deepnote.com/app/zewdis-first-project/DataMon-The-Original-151-677c8c42-6fcb-4f74-99b6-8dfeb5515461)**  
+
 Developed an end-to-end ETL pipeline using Pokémon API data, covering extraction, cleaning, validation, and SQL-based transformation with DuckDB. Applied statistical analysis to identify strengths and weaknesses across Pokémon types, gaining hands-on experience with reproducible data workflows and structured analytics pipelines.
 
 📌 🍔 **[Bite by Byte: Modeling Nutritional Value in Fast Food](https://colab.research.google.com/drive/1qnMPtRRKZ6BdIJk8u_-_9RT7YT_7Z9Gk?usp=sharing)**  
+
 Built and evaluated multiple machine learning models (Random Forest, XGBoost, Voting Ensemble) to predict the healthiness of fast food items using publicly available nutrition data. The workflow includes data preprocessing, feature engineering, model training, and evaluation, serving as a clear reference for applying ML to real-world tabular data.
 
 📌 🧠 **[Rhetoric Intensity Classifier](https://github.com/zewdih/rhetoric-intensity-classifier)**  
+
 Created a multi-class NLP classifier that predicts the intensity of political rhetoric using TF-IDF features and supervised learning. Focused on annotation quality, feature engineering, and evaluation to ensure interpretability and robustness when modeling nuanced language patterns.
 
 ---
