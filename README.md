@@ -1,20 +1,20 @@
 # 👋🏽 Hey, Im Zewdi :)
 
-Data Scientist | ML + Agentic AI Engineer passionate about real-world AI & systems
+**Data Scientist | ML & Agentic AI Engineer focused on real-world AI systems**
 
-🧩🧠 I think like a product manager, build like an engineer, and model like a data scientist. 🧩🧠
+🧩🧠 I think like a product manager, build like an engineer, and model like a data scientist.🧩🧠
 
 ---
 ## About Me
 
-👩🏽‍💻 **I'm a UC Berkeley grad (Data Science) who loves bringing technical depth and creative intuition together to solve meaningful problems. With a product mindset and a passion for building AI tools that work in the real world, I focus on creating systems that are scalable, explainable, and user-centered.**
+👩🏽‍💻 **I’m a UC Berkeley Data Science grad who enjoys combining technical depth and creative intuition to solve meaningful, real-world problems. With a strong product mindset, I focus on building agentic AI systems that reason, act, and deliver value in real-world environments, prioritizing scalability, explainability, and user impact.**
 
 Here’s what I’m most passionate about:
 
-- 🤖 **End-to-End Model Development** – I build from scratch: modeling logic, data wrangling, training, evaluation, and tuning with clear metrics (R², OSR², F1).
-- 📱 **iOS + CoreML in Progress** – I’m actively exploring Swift and CoreML to bring ML to mobile and build apps with real-world value.
-- 🎓 **Teaching + Technical Communication** – As a tech instructor and writing tutor, I know how to explain complex systems to diverse learners and stakeholders.
-- 📚 ML/DL Research Enthusiast – I regularly read and synthesize the latest machine learning and deep learning papers to stay current with advancements in the field.
+- 🤖 **End-to-End Model & Agent Development** – I build from scratch: data wrangling, modeling logic, training, evaluation, tuning, and orchestration, using clear metrics (R², OSR², F1) while accounting for real-world constraints like cost, latency, and reliability.
+- 📱 **iOS + CoreML (In Progress)** – I’m actively exploring Swift and CoreML to bring ML and intelligent agents to mobile, focusing on practical applications with real user value.
+- 🎓 **Teaching + Technical Communication** – As a technical instructor and writing tutor, I translate complex ML and system concepts into clear, approachable explanations for diverse learners and stakeholders.
+- 📚 **ML/DL & Agentic AI Research Enthusiast** – I regularly read and synthesize machine learning, deep learning, and agent-based AI research, with an emphasis on applying ideas pragmatically rather than theoretically.
 
 ---
 
